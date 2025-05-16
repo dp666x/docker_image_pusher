@@ -1,1 +1,1 @@
-kokoro-fastapi-cpu
+ghcr.io/remsky/kokoro-fastapi-cpu:v0.2.1
