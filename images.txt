@@ -1,1 +1,1 @@
-ghcr.io/remsky/kokoro-fastapi-cpu:v0.2.1
+cr.weaviate.io/semitechnologies/weaviate:1.19.7
