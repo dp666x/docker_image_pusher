@@ -1,1 +1,1 @@
-funasr:funasr-runtime-sdk-online-cpu-0.1.12
+registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.12
