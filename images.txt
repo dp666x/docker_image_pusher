@@ -1,1 +1,1 @@
-cr.weaviate.io/semitechnologies/weaviate:1.19.7
+funasr:funasr-runtime-sdk-online-cpu-0.1.12
