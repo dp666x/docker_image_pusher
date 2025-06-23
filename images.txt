@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.12
+ghcr.io/coqui-ai/tts-cpu
