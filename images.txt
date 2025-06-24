@@ -1,1 +1,1 @@
-ghcr.io/coqui-ai/tts-cpu
+artrajz/vits-simple-api:latest
