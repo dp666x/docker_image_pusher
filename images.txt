@@ -1,1 +1,2 @@
-artrajz/vits-simple-api:latest
+xxxxrt666/gpt-sovits:latest-cu126-lite
+xxxxrt666/gpt-sovits:latest-cu128-lite
