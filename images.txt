@@ -1,4 +1,4 @@
-fastgpt-sandbox:v4.10.0-fix
-fastgpt-mcp_server:v4.10.0-fix 
-fastgpt-plugin:v0.1.5
-aiproxy:v0.2.2
+registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt-sandbox:v4.10.1
+registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt-mcp_server:v4.10.1
+registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt-plugin:v0.1.5
+registry.cn-hangzhou.aliyuncs.com/labring/aiproxy:v0.2.2
