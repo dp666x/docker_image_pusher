@@ -1,5 +1,4 @@
-mongo:4.4.29
-ghcr.io/labring/fastgpt-sandbox:v4.10.0-fix
-ghcr.io/labring/fastgpt-mcp_server:v4.10.0-fix 
-ghcr.io/labring/fastgpt-plugin:v0.1.5
-ghcr.io/labring/aiproxy:v0.2.2
+fastgpt-sandbox:v4.10.0-fix
+fastgpt-mcp_server:v4.10.0-fix 
+fastgpt-plugin:v0.1.5
+aiproxy:v0.2.2
