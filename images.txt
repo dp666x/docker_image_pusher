@@ -1,1 +1,5 @@
-ghcr.io/c4illin/convertx
+nginx:latest
+adminer:latest
+redis:latest
+minio/mc
+quay.io/keycloak/keycloak:25.0.2
