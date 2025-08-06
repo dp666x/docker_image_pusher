@@ -1,5 +1,2 @@
-nginx:latest
-adminer:latest
-redis:latest
-minio/mc
-quay.io/keycloak/keycloak:25.0.2
+pytorch/pytorch:2.3.1-cuda11.8-cudnn8-runtime
+pytorch/pytorch:2.6.0-cuda12.6-cudnn9-runtime
