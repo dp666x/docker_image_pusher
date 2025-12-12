@@ -1,3 +1,1 @@
-rust:1.87-slim-bookworm
-debian:bookworm-slim
-chef
+ghcr.io/coqui-ai/tts-cpu
