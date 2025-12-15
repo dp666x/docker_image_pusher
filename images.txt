@@ -1,1 +1,3 @@
-ghcr.io/coqui-ai/tts-cpu
+ghcr.io/coqui-ai/tts
+xxxxrt666/gpt-sovits:latest-cu126
+harryliu888/cosyvoice:latest
