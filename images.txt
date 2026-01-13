@@ -1,1 +1,1 @@
-soar97/triton-cosyvoice:25.06
+soar97/triton-f5-tts:24.12
