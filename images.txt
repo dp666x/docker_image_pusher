@@ -1,1 +1,3 @@
-soar97/triton-f5-tts:24.12
+docmost/docmost:latest
+postgres:16-alpine
+redis:7.2-alpine
