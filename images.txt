@@ -1,1 +1,1 @@
-qwenllm/qwen3-omni:vllm-latest
+qwenllm/qwen3-omni:3-cu124
