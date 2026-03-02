@@ -1,1 +1,2 @@
-qwenllm/qwen3-omni:3-cu124
+neosun/voxcpm-allinone:latest
+neosun/cosyvoice:latest
