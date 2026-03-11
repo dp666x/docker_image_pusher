@@ -1,2 +1,1 @@
-neosun/firered-asr2s:latest
 neosun/qwen3-asr:latest
