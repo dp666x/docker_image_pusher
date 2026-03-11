@@ -1,2 +1,2 @@
-neosun/voxcpm-allinone:latest
-neosun/cosyvoice:latest
+neosun/firered-asr2s:latest
+neosun/qwen3-asr:latest
