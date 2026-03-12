@@ -1,1 +1,1 @@
-neosun/qwen3-asr:latest
+qwenllm/qwen3-asr
