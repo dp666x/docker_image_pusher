@@ -1,1 +1,1 @@
-qwenllm/qwen3-asr
+xprobe/xinference:latest
