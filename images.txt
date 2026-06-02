@@ -1,1 +1,1 @@
-unsloth/unsloth:latest
+paddlepaddle/paddlex:latest
