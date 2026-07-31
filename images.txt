@@ -1,1 +1,2 @@
-xprobe/xinference:latest-cu128
+xprobe/xinference:v3.0.0
+xprobe/xinference:v1.17.1-cu129
