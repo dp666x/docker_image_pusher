@@ -1,2 +1,1 @@
-xprobe/xinference:v3.0.0
-xprobe/xinference:v1.17.1-cu129
+pgsty/minio:RELEASE.2026-03-25T00-00-00Z
